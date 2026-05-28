@@ -1,0 +1,6 @@
+{
+  "name": "Omma AI",
+  "description": "منصة ذكاء اصطناعي متطورة وشاملة تتيح الدردشة الذكية، توليد الصور الإبداعية، والترجمة الفورية، مع ميزة تحويل النصوص إلى كلام منطوق بجميع اللغات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
